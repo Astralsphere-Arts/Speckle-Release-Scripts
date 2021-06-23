@@ -1,5 +1,5 @@
 # Speckle Distribution Scripts
-Scripts and Files used for Creating Distributions for Speckle
+Scripts and Files used for Creating new Releases for [Speckle](https://github.com/Astralsphere-Arts/Speckle).
 
 ## Build Instructions
 1. Run `init.bat`.
