@@ -1,5 +1,5 @@
 #define AppName "Speckle"
-#define AppVersion "0.5"
+#define AppVersion "0.7"
 #define AppPublisher "Astralsphere Arts"
 #define AppURL "https://astral.xahertz.com/Speckle"
 #define AppPublisherURL "https://astral.xahertz.com"
@@ -26,7 +26,7 @@ LicenseFile=resources\License.txt
 ArchitecturesAllowed={#AppArchitecture}
 ArchitecturesInstallIn64BitMode={#AppArchitecture}
 PrivilegesRequiredOverridesAllowed=dialog
-OutputBaseFilename={#AppName}-{#AppVersion}.alpha-win-{#AppArchitecture}-setup
+OutputBaseFilename={#AppName}-{#AppVersion}.beta-win-{#AppArchitecture}-setup
 Compression=lzma2/ultra64
 SolidCompression=yes
 WizardStyle=modern

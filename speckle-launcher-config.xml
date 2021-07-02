@@ -24,12 +24,12 @@
     <runtimeBits>64/32</runtimeBits>
   </jre>
   <versionInfo>
-    <fileVersion>0.5.0.0</fileVersion>
-    <txtFileVersion>0.5-alpha</txtFileVersion>
+    <fileVersion>0.7.0.0</fileVersion>
+    <txtFileVersion>0.7-beta</txtFileVersion>
     <fileDescription>A Simple Invoicing and Inventory Management System</fileDescription>
     <copyright>Copyright (c) 2021 Astralsphere Arts</copyright>
-    <productVersion>0.5.0.0</productVersion>
-    <txtProductVersion>0.5-alpha</txtProductVersion>
+    <productVersion>0.7.0.0</productVersion>
+    <txtProductVersion>0.7-beta</txtProductVersion>
     <productName>Speckle</productName>
     <companyName>Astralsphere Arts</companyName>
     <internalName>speckle</internalName>
