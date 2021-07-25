@@ -1,5 +1,5 @@
 #define AppName "Speckle"
-#define AppVersion "0.7"
+#define AppVersion "0.9"
 #define AppPublisher "Astralsphere Arts"
 #define AppURL "https://astral.xahertz.com/Speckle"
 #define AppPublisherURL "https://astral.xahertz.com"
